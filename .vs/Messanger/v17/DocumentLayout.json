@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|E:\\Users\\xiamaksi\\source\\repos\\Messanger\\messanger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|solutionrelative:messanger\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|e:\\users\\xiamaksi\\source\\repos\\messanger\\messanger\\messanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|solutionrelative:messanger\\messanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|E:\\Users\\xiamaksi\\source\\repos\\Messanger\\messanger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|solutionrelative:messanger\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|E:\\Users\\xiamaksi\\source\\repos\\Messanger\\messanger\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|solutionrelative:messanger\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|E:\\Users\\xiamaksi\\source\\repos\\Messanger\\messanger\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|solutionrelative:messanger\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|E:\\Users\\xiamaksi\\source\\repos\\Messanger\\messanger\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F7B6416-6A80-4971-A270-9B2030783648}|Messanger\\Messanger.csproj|solutionrelative:messanger\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messanger.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\Messanger.cs",
+              "RelativeDocumentMoniker": "Messanger\\Messanger.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\Messanger.cs",
+              "RelativeToolTip": "Messanger\\Messanger.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:27:13.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\Contact.cs",
+              "RelativeDocumentMoniker": "Messanger\\Contact.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\Contact.cs",
+              "RelativeToolTip": "Messanger\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:26:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\Message.cs",
+              "RelativeDocumentMoniker": "Messanger\\Message.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\Message.cs",
+              "RelativeToolTip": "Messanger\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:26:31.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\User.cs",
+              "RelativeDocumentMoniker": "Messanger\\User.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\User.cs",
+              "RelativeToolTip": "Messanger\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:25:22.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Messanger\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Messanger\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwB0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:45:22.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Messanger\\MainWindow.xaml",
+              "ToolTip": "E:\\Users\\xiamaksi\\source\\repos\\Messanger\\Messanger\\MainWindow.xaml",
+              "RelativeToolTip": "Messanger\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T18:45:35.453Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
